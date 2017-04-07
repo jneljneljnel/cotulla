@@ -4,7 +4,8 @@
   "description": "internet thing",
   "main": "index.js",
   "scripts": {
-    "test": "lol"
+    "test": "lol",
+    "start": "node"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jneljneljnel/cotulla/issues"
   },
-  "homepage": "https://github.com/jneljneljnel/cotulla#readme"
+  "homepage": "https://github.com/jneljneljnel/cotulla#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
 }
