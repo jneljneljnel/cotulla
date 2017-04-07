@@ -1,0 +1,22 @@
+{
+  "name": "cotulla",
+  "version": "1.0.0",
+  "description": "internet thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jneljneljnel/cotulla.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Jnel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jneljneljnel/cotulla/issues"
+  },
+  "homepage": "https://github.com/jneljneljnel/cotulla#readme"
+}
